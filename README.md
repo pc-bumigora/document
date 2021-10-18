@@ -26,7 +26,7 @@ pada repository ini, teman-teman bisa menemukan kumpulan dokumen belajar **Algor
   - [Algoritma Dasar](http://github.com) 
 - Pemrograman Berorientasi Objek :
   - [Pendahuluan](http://github.com)
-  - [Inheritance](http://github.com)
+  - [Inheritance](https://github.com/pc-bumigora/document/blob/main/Pemrograman%20Berorientasi%20Objek/Materi%20Inheritance.pdf)
   - [Polymorphism](http://github.com)
   - [Encapsulation](http://github.com)
   - [Abstraction](http://github.com)
