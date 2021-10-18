@@ -1,4 +1,7 @@
-![Gambar PC-Bumigora](https://avatars.githubusercontent.com/u/92533942?v=4)
+<p align="center">
+  <img src="https://avatars.githubusercontent.com/u/92533942?v=4" alt="Gambar PC-Bumigora"/>
+</p>
+
 > Programming Community Bumigora 2021
 
 # Selamat Datang di PC-Bumigora
@@ -16,7 +19,7 @@ pada repository ini, teman-teman bisa menemukan kumpulan dokumen belajar **Algor
 
 - Algoritma & Pemrograman :
   - [Syntax Dasar](http://github.com)
-  - [Operator, Variable, Tipe Data](http://github.com)
+  - [Operator, Variable, Tipe Data](https://github.com/pc-bumigora/document/blob/main/Algoritma%20%26%20Pemrograman/Materi%20Operator%2C%20Variable%2C%20Tipe%20Data.pdf)
   - [Struktur Kontrol (Perulangan dan Percabangan)](http://github.com)
   - [Fungsi](http://github.com)
   - [Array](http://github.com)
