@@ -20,7 +20,7 @@ pada repository ini, teman-teman bisa menemukan kumpulan dokumen belajar **Algor
 - Algoritma & Pemrograman :
   - [Syntax Dasar](http://github.com)
   - [Operator, Variable, Tipe Data](https://github.com/pc-bumigora/document/blob/main/Algoritma%20%26%20Pemrograman/Materi%20Operator%2C%20Variable%2C%20Tipe%20Data.pdf)
-  - [Struktur Kontrol (Perulangan dan Percabangan)](http://github.com)
+  - [Struktur Kontrol (Perulangan dan Percabangan)](https://github.com/pc-bumigora/document/blob/main/Algoritma%20%26%20Pemrograman/Materi%20Percabangan.pptx)
   - [Fungsi](http://github.com)
   - [Array](http://github.com)
   - [Algoritma Dasar](http://github.com) 
