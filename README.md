@@ -20,14 +20,14 @@ pada repository ini, teman-teman bisa menemukan kumpulan dokumen belajar **Algor
 - Algoritma & Pemrograman :
   - [Syntax Dasar](http://github.com)
   - [Operator, Variable, Tipe Data](https://github.com/pc-bumigora/document/blob/main/Algoritma%20%26%20Pemrograman/Materi%20Operator%2C%20Variable%2C%20Tipe%20Data.pdf)
-  - [Struktur Kontrol (Perulangan dan Percabangan)](https://github.com/pc-bumigora/document/blob/main/Algoritma%20%26%20Pemrograman/Materi%20Percabangan.pptx)
+  - [Struktur Kontrol (Perulangan dan Percabangan)](http://github.com)
   - [Fungsi](http://github.com)
   - [Array](http://github.com)
   - [Algoritma Dasar](http://github.com) 
 - Pemrograman Berorientasi Objek :
   - [Pendahuluan](http://github.com)
   - [Inheritance](https://github.com/pc-bumigora/document/blob/main/Pemrograman%20Berorientasi%20Objek/Materi%20Inheritance.pdf)
-  - [Polymorphism](http://github.com)
+  - [Polymorphism](https://github.com/pc-bumigora/document/blob/main/Pemrograman%20Berorientasi%20Objek/Materi%20Polimorfisme.pdf)
   - [Encapsulation](http://github.com)
   - [Abstraction](http://github.com)
   - [PBO Lanjutan](http://github.com)
