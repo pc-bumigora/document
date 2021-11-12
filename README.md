@@ -16,14 +16,14 @@ pada repository ini, teman-teman bisa menemukan kumpulan dokumen belajar **Algor
 ![Gambar PC-Bumigora](https://i.ibb.co/R9J2MGH/Curriculum-Development-2x.png)
 
 ## Daftar Materi
-
+  
 - Algoritma & Pemrograman :
   - [Syntax Dasar](https://www.petanikode.com/java-sintaks/)
   - [Operator, Variable, Tipe Data](https://github.com/pc-bumigora/document/blob/main/Algoritma%20%26%20Pemrograman/Materi%20Operator%2C%20Variable%2C%20Tipe%20Data.pdf)
-  - [Struktur Kontrol (Perulangan dan Percabangan)](http://github.com)
-  - [Fungsi](http://github.com)
-  - [Array](http://github.com)
-  - [Algoritma Dasar](http://github.com) 
+  - [Struktur Kontrol (Perulangan dan Percabangan)](https://github.com/pc-bumigora/document/blob/main/Algoritma%20%26%20Pemrograman/Materi%20Percabangan.pptx)
+  - [Fungsi](https://github.com/pc-bumigora/document/blob/main/Algoritma%20%26%20Pemrograman/Materi%20Materi%20Fungsi.pdf)
+  - [Array](https://github.com/pc-bumigora/document/blob/main/Algoritma%20%26%20Pemrograman/Materi%20Materi%20Array.pdf)
+  - [Algoritma Dasar](https://github.com/pc-bumigora/document/blob/main/Algoritma%20%26%20Pemrograman/Algoritma.txt)
 - Pemrograman Berorientasi Objek :
   - [Pendahuluan](https://www.petanikode.com/java-oop/)
   - [Inheritance](https://github.com/pc-bumigora/document/blob/main/Pemrograman%20Berorientasi%20Objek/Materi%20Inheritance.pdf)
