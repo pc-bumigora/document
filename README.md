@@ -21,8 +21,8 @@ pada repository ini, teman-teman bisa menemukan kumpulan dokumen belajar **Algor
   - [Syntax Dasar](https://www.petanikode.com/java-sintaks/)
   - [Operator, Variable, Tipe Data](https://github.com/pc-bumigora/document/blob/main/Algoritma%20%26%20Pemrograman/Materi%20Operator%2C%20Variable%2C%20Tipe%20Data.pdf)
   - [Struktur Kontrol (Perulangan dan Percabangan)](https://github.com/pc-bumigora/document/blob/main/Algoritma%20%26%20Pemrograman/Materi%20Percabangan.pptx)
-  - [Fungsi](https://github.com/pc-bumigora/document/blob/main/Algoritma%20%26%20Pemrograman/Materi%20Materi%20Fungsi.pdf)
-  - [Array](https://github.com/pc-bumigora/document/blob/main/Algoritma%20%26%20Pemrograman/Materi%20Materi%20Array.pdf)
+  - [Fungsi](https://github.com/pc-bumigora/document/blob/main/Algoritma%20%26%20PemrogramanMateri%20Fungsi.pdf)
+  - [Array](https://github.com/pc-bumigora/document/blob/main/Algoritma%20%26%20Pemrograman/Materi%20Array.pdf)
   - [Algoritma Dasar](https://github.com/pc-bumigora/document/blob/main/Algoritma%20%26%20Pemrograman/Algoritma.txt)
 - Pemrograman Berorientasi Objek :
   - [Pendahuluan](https://www.petanikode.com/java-oop/)
